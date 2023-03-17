@@ -75,8 +75,8 @@ export default function RecipeReviewCard() {
       onClick={}
     >
      
-      <Link href="www.palmbeachstate.edu/" underline="">
-        {'www.palmbeachstate.edu/'}
+      <Link href="https://palmbeachstate.smartcatalogiq.com/current/Catalog/Degrees-and-Certificates/Career-Certificate-Program-CCP/Heavy-Equipment-Service-Technician-CCP" underline="">
+        {'https://www.palmbeachstate.edu/'}
       </Link>
     </Box>
         
